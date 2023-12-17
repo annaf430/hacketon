@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Hackaton8Website.props" />
+</Project>
